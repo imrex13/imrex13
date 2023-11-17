@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @imrex13
 - 👀 I’m interested in ... Artificial Intelligence
-- 🌱 I’m currently learning ... b.sc cs(Ai & ds)
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... 
+- 🌱 I’m currently learning ... B.sc cs(Ai & Ds)
+- 💞️ I’m looking to collaborate on ...Open Source Projects
+- 📫 How to reach me ... raghuarunkumar13@gmil.com
 
 <!---
 imrex13/imrex13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
