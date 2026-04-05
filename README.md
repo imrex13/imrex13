@@ -112,7 +112,6 @@ Secured seed funding, ran live campus pilots, then made a deliberate decision to
 | 🚀 | **Tamil Nadu Startup IVP** — Top 60+ teams statewide |
 | 🌏 | **International Client Delivery** — Lee Kong Chian Natural History Museum, Singapore |
 | 🏆 | **First Place** — Science Expo 2K24, Bannari Amman Institute of Technology |
-| 💼 | **TCS Smart Track** — Selected above standard Ignite threshold |
 
 ---
 
