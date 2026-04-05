@@ -1,64 +1,160 @@
-# 👋 Hey there, I'm Raghu!
+<div align="center">
 
-Founder @ RexinTech (now closed) — a startup focused on AI-driven campus navigation solutions.
+# Raghu A
+### Backend Engineer · AI Systems · Production Infrastructure
 
----
+**Patent Filed · DST Government Funded · International Client Delivery**
 
-### 💻 Software Engineer | 🔧 Backend Dev | 🤖 AI Explorer | 🛠 Startup Builder
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Raghu%20A-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/raghu-a-a12275238)
+[![Email](https://img.shields.io/badge/Email-raghuarunkumar13%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:raghuarunkumar13@gmail.com)
 
----
-
-🚀 **Currently:**  
-Final-year CS student specializing in **Backend Development** and **Machine Learning**, with a passion for building scalable systems and real-world tech products.  
-I believe in **learning through doing**, and that’s exactly how I’ve grown—by solving real problems with real code.
+</div>
 
 ---
 
-### 🔥 What I Do
-- 🏗️ **Backend Systems:** Node.js, Express.js, Flask, MongoDB, SQL  
-- 🤖 **AI/ML Work:** LLMs, LangChain, RAG, OpenCV, MediaPipe  
-- 🧠 **System Design:** REST APIs, Caching, Load Balancing, Scaling  
-- ☁️ **DevOps Touches:** Docker, NGINX, Firebase, AWS EC2  
-- ✍️ **Project-Driven Learning:** I don’t just code—I build stuff that *matters*.
+## About
+
+Backend engineer focused on building systems that work under real conditions — not just demos.
+
+I build production infrastructure for AI-driven applications, handle voice pipeline architecture, real-time multi-camera systems, and backend security. My work has been government funded twice, filed for patent, and deployed to over 1300 concurrent users.
+
+B.Sc. Computer Science (AI & Data Science) — Bharathiar University · Class of 2026 · 82% Aggregate
 
 ---
 
-### 🏆 Noteworthy Work
+## Key Projects
 
-- 🧭 **Camp View (RexinTech – My Startup)**  
-  Built and led as part of my registered startup **RexinTech**, this 3D Campus Navigation System uses GeoJSON and AI pathfinding to deliver real-time routing on an interactive map. Secured seed funding and tested in live campus environments.
+### TECTOVIA — Voice-Controlled Quiz Platform for Visually Impaired Students
+> DST Government Funded · Patent Filed (App No. 202541077401) · 1300+ Concurrent Users
 
-- 🏛️ **Singapore National Museum Project**  
-  Developed the backend system for an internal photo request platform used by museum staff and external researchers.
+Built to solve a real access problem: standard quiz platforms are unusable for visually impaired students. TECTOVIA is a voice-controlled quiz system with a dual-layer speech architecture.
 
-- 🤖 **Offline AI Assistant**  
-  A fully offline RAG-powered personal assistant with file upload, vector indexing, and custom file-based memory — built for privacy-first LLM use cases.
+- **Layer 1** — Vosk keyword spotting for real-time navigation commands (offline, <3ms latency)
+- **Layer 2** — Whisper STT for natural language answer input with intent parsing
+- Confirmation flow handles both online and offline states gracefully
+- 97% task success rate · 2.9ms average response time · production load tested
 
-- 🎓 **GASC Sync**  
-  Role-based college management system with dashboards for admin, staff, and students — includes circulars, bonafide approval, and searchable public forums.
+**Stack:** Node.js · Express · MongoDB · Python · Vosk · Whisper · Kokoro TTS · WebSockets
 
-
-- ✋ **Touchless – Hand Gesture Control System**  
-  Virtual interface using MediaPipe + OpenCV for controlling the mouse, scrolling, volume, and drawing via hand gestures. Modular and mode-switchable.
-
-  
-- 🔥 **Fire Vision (ForgeofCreations - Startup)**  
-Contributed to a low-light fire detection system that uses real-time camera frames for safety which primarly focuses on installing it in existing cameras. Assisted in backend integration and deployment planning for device streaming.
+*Code is proprietary (DST funded, patent pending). Full architecture documentation available on request.*
 
 ---
 
-### 🔍 I’m Looking For
-- 🌱 Internship / Full-Time Role as a **Backend Developer** or **Software Engineer**
-- 🧠 Teams that value **problem-solvers, not just resume keywords**
-- 💬 Mentors, collaborators, and fellow builders
+### FireVision — Real-Time Fire & Smoke Detection System
+> Tamil Nadu Startup IVP Funded · Live Production Deployment
+
+Multi-camera real-time fire and smoke detection system designed for installation on existing camera infrastructure — no hardware replacement required.
+
+- Backend architecture and API layer built from scratch
+- Live deployment on AWS EC2 behind NGINX reverse proxy
+- Handles concurrent camera stream ingestion and alert routing
+
+**Stack:** Node.js · Express · MongoDB · AWS EC2 · NGINX
+
+*Code is proprietary (funded project). Full architecture documentation available on request.*
 
 ---
 
-### 📫 Let’s Connect
-- 📧 Email: raghuarunkumar13@gmail.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/raghu-a-a12275238)  <!-- Add your site/resume link if available -->
-- 💬 DM me about projects, collabs, or just nerd stuff
+### Singapore Museum Imaging Pipeline
+> International Client · Lee Kong Chian Natural History Museum, Singapore (2024)
+
+Backend system for an internal photo request and management platform serving museum staff and external researchers. Delivered across three client-driven iteration cycles.
+
+**Stack:** Node.js · Express · EJS · SQL
+
+*Code is under client NDA. Delivery documentation available on request.*
 
 ---
 
-> “If you’re not building, you’re waiting.” — Rex, probably.
+### Offline AI Assistant
+> Final Year Project · Fully Local · Privacy-First
+
+Complete RAG pipeline running entirely offline — no cloud dependency, no data leaving the device.
+
+- ChromaDB vector store with per-chat collection isolation
+- Dual LLM architecture using Ollama + LLaMA 3.2:1B
+- File upload, vector indexing, and session memory
+
+**Stack:** Python · ChromaDB · Ollama · LLaMA 3.2
+
+[View Repository →](https://github.com/imrex13)
+
+---
+
+### RDOMA — Gmail Automation Chrome Extension
+> Open Source
+
+Chrome extension for Gmail automation using Gmail API, OAuth 2.0, and Manifest V3.
+
+**Stack:** JavaScript · Gmail API · OAuth 2.0 · Chrome Manifest V3
+
+[View Repository →](https://github.com/imrex13)
+
+---
+
+### RexinTech — Campus Navigation Startup *(Founded & Closed)*
+> Registered Startup · Seed Funded
+
+Founded RexinTech to build AI-driven campus navigation infrastructure. Built and shipped Camp View — a 3D campus navigation system using GeoJSON and graph-based pathfinding with real-time routing on an interactive map.
+
+Secured seed funding, ran live campus pilots, then made a deliberate decision to close the company. The product worked. The market timing didn't. Closed cleanly.
+
+**Stack:** Node.js · GeoJSON · Dijkstra pathfinding · 3D rendering
+
+---
+
+## Achievements
+
+| | |
+|---|---|
+| 🔬 | **Patent Filed** — Ordinary Application No. 202541077401 (Filed Aug 2025, Published Sep 2025, Awaiting Examination) |
+| 🏛️ | **DST Government Grant** — ₹2.5 Lakhs for TECTOVIA |
+| 🚀 | **Tamil Nadu Startup IVP** — Top 60+ teams statewide |
+| 🌏 | **International Client Delivery** — Lee Kong Chian Natural History Museum, Singapore |
+| 🏆 | **First Place** — Science Expo 2K24, Bannari Amman Institute of Technology |
+| 💼 | **TCS Smart Track** — Selected above standard Ignite threshold |
+
+---
+
+## Technical Skills
+
+**Backend**
+Node.js · Express.js · REST API design · JWT & RBAC · WebSockets · Rate limiting · Security middleware
+
+**AI / ML**
+RAG pipelines · LLMs (Ollama, LLaMA) · Whisper STT · Vosk KWS · OpenCV · MediaPipe · LangChain · ChromaDB
+
+**Databases**
+MongoDB · SQL · Vector databases
+
+**Infrastructure**
+AWS EC2 · NGINX · Docker · Firebase
+
+**Languages**
+JavaScript · Python · SQL
+
+---
+
+## Work Experience
+
+**Backend & ML Engineer — Beaver Health AI** *(Sep 2025 – Dec 2025)*
+JWT authentication, RBAC implementation, AI inference integration
+
+**ML Engineer — Avatar Robotix** *(Jul 2024 – Jan 2025)*
+Computer vision pipelines using OpenCV and MediaPipe for object detection and gesture recognition
+
+---
+
+## Currently
+
+- Finishing B.Sc. — graduating May 2026
+- Targeting backend engineering roles at product companies
+- Open to full-time positions starting mid-2026
+
+📧 raghuarunkumar13@gmail.com
+
+---
+
+<div align="center">
+<sub>Backend systems · AI infrastructure · Production deployments · Building things that work</sub>
+</div>
