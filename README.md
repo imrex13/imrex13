@@ -6,7 +6,7 @@
 
 <br/>
 
-[![Patent](https://img.shields.io/badge/Patent%20Filed-202541077401-1e3a8a?style=for-the-badge)](https://github.com/imrex13)
+[![Patent](https://img.shields.io/badge/Patent%20Filed-1e3a8a?style=for-the-badge)](https://github.com/imrex13)
 [![DST Grant](https://img.shields.io/badge/DST%20Grant-%E2%82%B92.5L-f97316?style=for-the-badge)](https://github.com/imrex13)
 [![TN Startup](https://img.shields.io/badge/TN%20Startup%20IVP-Selected-22c55e?style=for-the-badge)](https://github.com/imrex13)
 
