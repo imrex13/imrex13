@@ -80,7 +80,6 @@ focus:
 
 [![Patent](https://img.shields.io/badge/Patent-Filed-1e3a8a?style=flat-square&logo=googledocs&logoColor=white)](https://github.com/imrex13)
 [![DST](https://img.shields.io/badge/DST-Funded-f97316?style=flat-square&logo=handshake&logoColor=white)](https://github.com/imrex13)
-[![Users](https://img.shields.io/badge/Users-1300%2B-22c55e?style=flat-square&logo=users&logoColor=white)](https://github.com/imrex13)
 [![Production](https://img.shields.io/badge/Status-Live-06b6d4?style=flat-square&logo=statuspage&logoColor=white)](https://github.com/imrex13)
 
 </div>
